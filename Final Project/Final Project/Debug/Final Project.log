@@ -1,0 +1,15 @@
+﻿Build started 1/22/2021 1:14:06 PM.
+     1>Project "C:\Users\naeem\OneDrive\Desktop\Group No. 2 - CP Lab Final Term Project Report [F'20]\Final Project\Final Project\Final Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\naeem\onedrive\desktop\group no. 2 - cp lab final term project report [f'20]\final project\final project\source.cpp(486): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\naeem\OneDrive\Desktop\Group No. 2 - CP Lab Final Term Project Report [F'20]\Final Project\Debug\Final Project.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\naeem\OneDrive\Desktop\Group No. 2 - CP Lab Final Term Project Report [F'20]\Final Project\Debug\Final Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\naeem\OneDrive\Desktop\Group No. 2 - CP Lab Final Term Project Report [F'20]\Final Project\Debug\Final Project.lib" /MACHINE:X86 Debug\Source.obj
+         LINK : C:\Users\naeem\OneDrive\Desktop\Group No. 2 - CP Lab Final Term Project Report [F'20]\Final Project\Debug\Final Project.exe not found or not built by the last incremental link; performing full link
+         Final Project.vcxproj -> C:\Users\naeem\OneDrive\Desktop\Group No. 2 - CP Lab Final Term Project Report [F'20]\Final Project\Debug\Final Project.exe
+     1>Done Building Project "C:\Users\naeem\OneDrive\Desktop\Group No. 2 - CP Lab Final Term Project Report [F'20]\Final Project\Final Project\Final Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.09
