@@ -1,4 +1,4 @@
-# Horoscope-Based-forutune-teller
+# Horoscope-Based-fortune-teller
 -----------------------------------------------------------------
                         INTRODUCTION
 -----------------------------------------------------------------
